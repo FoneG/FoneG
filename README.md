@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FonG)](https://github.com/FonG/github-readme-stats)
+
+<!--
 
 Here are some ideas to get you started:
 
