@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :cn: I’m an iOS developer in Beijing 
+- :cn: I’m an iOS developer in HangZhou 
 - :computer: Focusing on Swift & iOS
 
 <br>
